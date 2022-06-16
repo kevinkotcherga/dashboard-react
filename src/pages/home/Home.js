@@ -1,9 +1,9 @@
 import React from 'react';
-import Chart from '../../chart/Chart';
+import Chart from '../../components/chart/Chart';
 import Navbar from '../../components/navbar/Navbar';
 import Sidebar from '../../components/sidebar/Sidebar';
 import Widget from '../../components/widget/Widget';
-import Featured from '../../featured/Featured';
+import Featured from '../../components/featured/Featured';
 import './home.scss';
 
 const Home = () => {
