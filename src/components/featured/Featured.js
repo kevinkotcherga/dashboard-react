@@ -16,7 +16,7 @@ const Featured = () => {
 					<CircularProgressbar value={70} text={'70%'} strokeWidth={5} />
 				</div>
 				<p className="title">Total des ventes réalisées aujourd'hui</p>
-				<p className="amount">450€</p>
+				<p className="amount">4550€</p>
 				<p className="desc">
 					Traitement des transactions précédentes. Les derniers paiements
 					peuvent ne pas être inclus

@@ -10,19 +10,19 @@ import {
 } from 'recharts';
 
 const data = [
-	{ name: 'January', Total: 1200 },
-	{ name: 'February', Total: 2100 },
-	{ name: 'March', Total: 800 },
-	{ name: 'April', Total: 1600 },
-	{ name: 'May', Total: 900 },
-	{ name: 'June', Total: 1700 },
+	{ name: 'Janvier', Total: 10200 },
+	{ name: 'Fevrier', Total: 20100 },
+	{ name: 'Mars', Total: 8000 },
+	{ name: 'Avril', Total: 15600 },
+	{ name: 'Mai', Total: 9000 },
+	{ name: 'Juin', Total: 17700 },
 ];
 
 const Chart = () => {
 	return (
 		<div className="chart">
 			<div className="title">Revenu des 6 derniers mois</div>
-			<ResponsiveContainer width="100%">
+			<ResponsiveContainer width="100%" aspect={2}>
 				<AreaChart
 					width={730}
 					height={250}
