@@ -5,7 +5,7 @@ import Sidebar from '../../components/sidebar/Sidebar';
 import Widget from '../../components/widget/Widget';
 import Featured from '../../components/featured/Featured';
 import './home.scss';
-import Table from '../../components/list/List';
+import Table from '../../components/table/Table';
 
 const Home = () => {
 	return (
