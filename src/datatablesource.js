@@ -38,7 +38,7 @@ export const userColumns = [
 	},
 ];
 
-//temporary data
+// temporary data
 export const userRows = [
 	{
 		id: 1,
