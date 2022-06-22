@@ -19,7 +19,7 @@ const Datatable = () => {
 				return (
 					<div className="cellAction">
 						<Link to="/users/test" style={{ textDecoration: 'none' }}>
-							<div className="viewButton">View</div>
+							<div className="viewButton">Voir</div>
 						</Link>
 						<div
 							className="deleteButton"
