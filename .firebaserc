@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "dashboard-react-kotcherga"
-  }
+    "default": "dashboardv2-kotcherga",
+    "fv2": "dashboardv2-kotcherga"
+  },
+  "targets": {}
 }
