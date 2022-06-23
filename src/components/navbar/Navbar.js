@@ -22,7 +22,7 @@ const Navbar = () => {
 				<div className="items">
 					<div className="item">
 						<LanguageOutlinedIcon className="icon" />
-						Fr
+						Français
 					</div>
 					<div className="item">
 						<DarkModeOutlinedIcon
